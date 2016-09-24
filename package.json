@@ -1,0 +1,26 @@
+{
+  "name": "mu-jquery-remove",
+  "version": "0.0.1",
+  "description": "",
+  "main": "jquery.remove.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-lib/mu-jquery-remove.git"
+  },
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-lib/mu-jquery-remove/issues"
+  },
+  "homepage": "https://github.com/mu-lib/mu-jquery-remove#readme",
+  "dependencies": {
+    "jquery": ">=1.4 <4"
+  },
+  "devDependencies": {
+    "standard-version": "^2.4.0",
+    "qunit": "^2.0.1"
+  }
+}
